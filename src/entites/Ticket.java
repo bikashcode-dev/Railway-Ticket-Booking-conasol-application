@@ -5,6 +5,15 @@ public class Ticket {
     private String userId;
     private String ticketDate;
     private String dateOfTravel;
+
+    public Ticket(String ticketId, String userId, String ticketDate, String dateOfTravel, Train train) {
+        this.ticketId = ticketId;
+        this.userId = userId;
+        this.ticketDate = ticketDate;
+        this.dateOfTravel = dateOfTravel;
+        this.train = train;
+    }
+
     private Train train ;
 
     public String getTicketId() {
