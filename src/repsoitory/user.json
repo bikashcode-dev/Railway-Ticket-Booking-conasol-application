@@ -1,0 +1,37 @@
+[
+  {
+    "userId": "U001",
+    "name": "Bikash",
+    "password": "123456",
+    "hashPassword": "a1b2c3d4e5f6",
+    "ticketsBooking": []
+  },
+  {
+    "userId": "U002",
+    "name": "Rahul",
+    "password": "rahul123",
+    "hashPassword": "f6e5d4c3b2a1",
+    "ticketsBooking": []
+  },
+  {
+    "userId": "U003",
+    "name": "Aman",
+    "password": "aman123",
+    "hashPassword": "z9y8x7w6v5u4",
+    "ticketsBooking": []
+  },
+  {
+    "userId": "U004",
+    "name": "Priya",
+    "password": "priya123",
+    "hashPassword": "m1n2b3v4c5x6",
+    "ticketsBooking": []
+  },
+  {
+    "userId": "U005",
+    "name": "Rohit",
+    "password": "rohit123",
+    "hashPassword": "q1w2e3r4t5y6",
+    "ticketsBooking": []
+  }
+]
