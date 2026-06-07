@@ -1,0 +1,72 @@
+[
+  {
+    "trainName": "Rajdhani Express",
+    "trainNumber": "12345",
+    "seats": [
+      [0,0,0,0,0],
+      [0,0,0,0,0],
+      [0,0,0,0,0]
+    ],
+    "stationTime": {
+      "Patna": "08:00:00",
+      "Kanpur": "14:00:00",
+      "Delhi": "20:00:00"
+    }
+  },
+  {
+    "trainName": "Shatabdi Express",
+    "trainNumber": "12001",
+    "seats": [
+      [0,0,0,0,0],
+      [0,0,0,0,0],
+      [0,0,0,0,0]
+    ],
+    "stationTime": {
+      "Lucknow": "07:00:00",
+      "Kanpur": "08:30:00",
+      "Delhi": "13:30:00"
+    }
+  },
+  {
+    "trainName": "Vande Bharat Express",
+    "trainNumber": "22436",
+    "seats": [
+      [0,0,0,0,0],
+      [0,0,0,0,0],
+      [0,0,0,0,0]
+    ],
+    "stationTime": {
+      "Varanasi": "06:00:00",
+      "Prayagraj": "08:00:00",
+      "New Delhi": "14:00:00"
+    }
+  },
+  {
+    "trainName": "Duronto Express",
+    "trainNumber": "12274",
+    "seats": [
+      [0,0,0,0,0],
+      [0,0,0,0,0],
+      [0,0,0,0,0]
+    ],
+    "stationTime": {
+      "Howrah": "05:30:00",
+      "Asansol": "08:15:00",
+      "Delhi": "18:45:00"
+    }
+  },
+  {
+    "trainName": "Garib Rath Express",
+    "trainNumber": "12203",
+    "seats": [
+      [0,0,0,0,0],
+      [0,0,0,0,0],
+      [0,0,0,0,0]
+    ],
+    "stationTime": {
+      "Saharsa": "04:00:00",
+      "Patna": "08:30:00",
+      "New Delhi": "21:00:00"
+    }
+  }
+]
